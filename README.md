@@ -18,6 +18,8 @@ Kasa HS-105 TP-Link Plug (Other plugs may work, milage may vary)
 https://www.amazon.com/TP-Link-HS105-KIT-Required-Assistant/dp/B06WD6Q8K9
 ![alt text](https://m.media-amazon.com/images/I/81k651IYPWL._AC_SL1500_.jpg)
 
+## Server Setup
+run `yarn`
 
 ## Setup
 1. Setup your TP link adapter according to the manual
