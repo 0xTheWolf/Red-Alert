@@ -26,4 +26,4 @@ https://www.amazon.com/TP-Link-HS105-KIT-Required-Assistant/dp/B06WD6Q8K9
 4. Open up your firewall and point to your newly setup web server
 5. _____
 6. PROFIT!!!
-7. LEAK ALPHA TO theWolf on FB Discord ;) if you enjoed this.
+7. LEAK ALPHA TO theWolf on FB Discord ;) if you enjoyed this.
