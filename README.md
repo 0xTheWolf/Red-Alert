@@ -6,7 +6,7 @@ Want EXTREME ALPHA?! WANT YOUR COMPETITORS TO FEAR YOU?! YOU NEED RED ALERT!!
 
 A HUGE ALPHA LEAK.
 
-This is my simple setup that when an endpoint is called it will turn on a BIG RED LIGHT situated on your desk. This alert is INCREDIBLE for notifying you of MEV. It's a simple web server that will trigger TP link devices for notification purposes. I use a GIANT RED LIGHT and an on off plug, but the fun is endless, play with any device. A Boombox with beastie boys. Flash images of hentai pr0n. POSSIBILITIES ARE ENDLESS!!!!
+This is my simple setup that when an endpoint is called it will turn on a BIG RED LIGHT situated on your desk. This alert is INCREDIBLE for notifying you of MEV. It's a simple web server that will trigger TP link devices for notification purposes. I use a GIANT RED LIGHT and an on off plug, but the fun is endless, play with any device. A Boombox with beastie boys. Flash images of hentai pr0n. POSSIBILITIES ARE ENDLESS!!!! Best of all, it will cost you around $40 on amazon...or 1/100th the price of gas for that sweet sweet alpha you've been enjoying 
 
 ## Required Materials:
 
