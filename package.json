@@ -1,0 +1,14 @@
+{
+  "name": "red-alert",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "0xTheWolf",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "tplink-smarthome-api": "^3.3.0"
+  }
+}
